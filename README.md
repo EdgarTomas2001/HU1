@@ -1,36 +1,36 @@
-# Long Short-Term Memory (LSTM)
+# Neural Networks
 
-This directory contains LSTM-based implementations for time series analysis and prediction in trading.
+This directory contains neural network-based implementations for advanced market analysis and trading decisions.
 
 ## Components
 
 ### PricePrediction
-- Time series forecasting models
-- Price movement prediction
-- Market direction analysis
-- Confidence level estimation
-
-### TrendAnalysis
-- Market trend identification
-- Trend strength evaluation
-- Trend reversal detection
-- Multi-timeframe trend analysis
-
-### VolatilityForecasting
-- Volatility prediction models
-- Risk assessment tools
-- Market regime volatility analysis
-- Dynamic volatility thresholds
+- Deep learning price forecasting
+- Multi-timeframe prediction models
+- Price movement classification
+- Market direction probability estimation
 
 ### PatternRecognition
-- Complex pattern identification
-- Time series pattern matching
-- Sequential pattern learning
-- Market behavior classification
+- Advanced chart pattern detection
+- Market structure identification
+- Behavioral pattern analysis
+- Real-time pattern matching
+
+### MarketSentiment
+- Sentiment analysis models
+- Market mood classification
+- Sentiment indicator generation
+- Sentiment trend tracking
+
+### RiskAssessment
+- Neural risk evaluation models
+- Dynamic position sizing
+- Market exposure analysis
+- Risk-adjusted signal generation
 
 ## Integration
-The LSTM components integrate with the ChartManager system to provide:
-- Real-time predictions visualization
-- Trend analysis overlays
-- Volatility forecasting indicators
-- Pattern recognition markers
+The neural network components integrate with the ChartManager system to provide:
+- Real-time prediction overlays
+- Pattern recognition visualization
+- Sentiment indicator displays
+- Risk assessment markers
