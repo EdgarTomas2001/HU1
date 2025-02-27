@@ -1,36 +1,25 @@
-# Neural Networks
+# Algorithmic Trading Components
 
-This directory contains neural network-based implementations for advanced market analysis and trading decisions.
+This directory contains advanced algorithmic trading components that implement various machine learning and statistical analysis methods.
 
 ## Components
 
-### PricePrediction
-- Deep learning price forecasting
-- Multi-timeframe prediction models
-- Price movement classification
-- Market direction probability estimation
+### Clustering Algorithms
+- K-means clustering for price pattern recognition
+- Hierarchical clustering for market regime identification
+- DBSCAN for outlier detection in price movements
 
-### PatternRecognition
-- Advanced chart pattern detection
-- Market structure identification
-- Behavioral pattern analysis
-- Real-time pattern matching
+### Long Short-Term Memory (LSTM)
+- Price prediction models
+- Market trend analysis
+- Volatility forecasting
+- Time series pattern recognition
 
-### MarketSentiment
-- Sentiment analysis models
-- Market mood classification
-- Sentiment indicator generation
-- Sentiment trend tracking
-
-### RiskAssessment
-- Neural risk evaluation models
-- Dynamic position sizing
-- Market exposure analysis
-- Risk-adjusted signal generation
+### Neural Networks
+- Deep learning price prediction
+- Pattern recognition networks
+- Market sentiment analysis
+- Risk assessment models
 
 ## Integration
-The neural network components integrate with the ChartManager system to provide:
-- Real-time prediction overlays
-- Pattern recognition visualization
-- Sentiment indicator displays
-- Risk assessment markers
+These components work in conjunction with the ChartManager system to provide advanced analysis and trading signals based on machine learning algorithms.
