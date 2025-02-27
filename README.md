@@ -1,25 +1,25 @@
-# Algorithmic Trading Components
+# Analysis Overlays
 
-This directory contains advanced algorithmic trading components that implement various machine learning and statistical analysis methods.
+This directory contains components for displaying technical analysis overlays and patterns on the charts.
 
 ## Components
 
-### Clustering Algorithms
-- K-means clustering for price pattern recognition
-- Hierarchical clustering for market regime identification
-- DBSCAN for outlier detection in price movements
+### Technical Indicators
+- Moving average visualizations
+- Oscillator displays
+- Volatility bands
 
-### Long Short-Term Memory (LSTM)
-- Price prediction models
-- Market trend analysis
-- Volatility forecasting
-- Time series pattern recognition
+### Pattern Recognition
+- Candlestick pattern markers
+- Chart pattern highlights
+- Trend reversal indicators
 
-### Neural Networks
-- Deep learning price prediction
-- Pattern recognition networks
-- Market sentiment analysis
-- Risk assessment models
+### Multi-Timeframe Analysis
+- Timeframe comparison tools
+- Multiple timeframe indicators
+- Correlation displays
 
-## Integration
-These components work in conjunction with the ChartManager system to provide advanced analysis and trading signals based on machine learning algorithms.
+### Custom Overlays
+- Custom indicator visualizations
+- Combined indicator displays
+- Market condition markers
