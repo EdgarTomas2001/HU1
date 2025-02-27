@@ -1,26 +1,36 @@
-# Clustering Algorithms
+# Long Short-Term Memory (LSTM)
 
-This directory contains implementations of various clustering algorithms for market analysis and pattern recognition.
+This directory contains LSTM-based implementations for time series analysis and prediction in trading.
 
 ## Components
 
-### KMeansClustering
-- Price pattern recognition
-- Market state classification
-- Trading signal generation based on cluster analysis
+### PricePrediction
+- Time series forecasting models
+- Price movement prediction
+- Market direction analysis
+- Confidence level estimation
 
-### HierarchicalClustering
-- Market regime identification
-- Trend change detection
-- Multi-timeframe market structure analysis
+### TrendAnalysis
+- Market trend identification
+- Trend strength evaluation
+- Trend reversal detection
+- Multi-timeframe trend analysis
 
-### DBSCANClustering
-- Outlier detection in price movements
-- Anomaly detection in market behavior
-- Dynamic support/resistance level identification
+### VolatilityForecasting
+- Volatility prediction models
+- Risk assessment tools
+- Market regime volatility analysis
+- Dynamic volatility thresholds
+
+### PatternRecognition
+- Complex pattern identification
+- Time series pattern matching
+- Sequential pattern learning
+- Market behavior classification
 
 ## Integration
-These clustering algorithms work with the ChartManager's visualization system to display:
-- Cluster boundaries and centers
-- Market regime transitions
-- Outlier events and anomalies
+The LSTM components integrate with the ChartManager system to provide:
+- Real-time predictions visualization
+- Trend analysis overlays
+- Volatility forecasting indicators
+- Pattern recognition markers
