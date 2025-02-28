@@ -1,4 +1,4 @@
-# 📊 Visual Components for Trading Charts
+# 📊 📊 Visual Components für Trading-Charts – HU2
 
 Dieses Verzeichnis enthält UI-Komponenten zur Verwaltung visueller Elemente auf Trading-Charts. Die Komponenten sind speziell für den **ChartManager** entwickelt und sorgen für eine **klare, intuitive und informative Darstellung** der Marktanalyse und Handelsaktivitäten des Expert Advisors (EA).
 
